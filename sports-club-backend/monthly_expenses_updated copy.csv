@@ -1,0 +1,484 @@
+Month,Category,Type,Amount
+2025-01,Fixed,Salaries,621958
+2025-01,Fixed,Loan fees,1171155
+2025-01,Fixed,SignOn bonus,631932
+2025-01,Fixed,Loyalty bonus Costs,1914414
+2025-01,Variable,Performance Bonuses,359178
+2025-01,Variable,Retention bonus,210268
+2025-01,Fixed, Amortisation (transfer),832180
+2025-01,Fixed, Amortisation (club agent),1203462
+2025-01,Fixed, Player agent fees,458000
+2025-02,Fixed,Salaries,637337
+2025-02,Fixed,Loan fees,1499890
+2025-02,Fixed,SignOn bonus,1636074
+2025-02,Fixed,Loyalty bonus Costs,1412756
+2025-02,Variable,Performance Bonuses,275203
+2025-02,Variable,Retention bonus,1339911
+2025-02,Fixed, Amortisation (transfer),378167
+2025-02,Fixed, Amortisation (club agent),141090
+2025-02,Fixed, Player agent fees,458000
+2025-03,Fixed,Salaries,829365
+2025-03,Fixed,Loan fees,1613396
+2025-03,Fixed,SignOn bonus,1287201
+2025-03,Fixed,Loyalty bonus Costs,1870455
+2025-03,Variable,Performance Bonuses,427069
+2025-03,Variable,Retention bonus,1347617
+2025-03,Fixed, Amortisation (transfer),891743
+2025-03,Fixed, Amortisation (club agent),203355
+2025-03,Fixed, Player agent fees,458000
+2025-04,Fixed,Salaries,1784372
+2025-04,Fixed,Loan fees,1762752
+2025-04,Fixed,SignOn bonus,684779
+2025-04,Fixed,Loyalty bonus Costs,1896025
+2025-04,Variable,Performance Bonuses,1089436
+2025-04,Variable,Retention bonus,1407371
+2025-04,Fixed, Amortisation (transfer),586232
+2025-04,Fixed, Amortisation (club agent),1017040
+2025-05,Fixed,Salaries,656730
+2025-05,Fixed,Loan fees,1933257
+2025-05,Fixed,SignOn bonus,1698079
+2025-05,Fixed,Loyalty bonus Costs,1154811
+2025-05,Variable,Performance Bonuses,627035
+2025-05,Variable,Retention bonus,748143
+2025-05,Fixed, Amortisation (transfer),165725
+2025-05,Fixed, Amortisation (club agent),1278557
+2025-06,Fixed,Salaries,584654
+2025-06,Fixed,Loan fees,1453277
+2025-06,Fixed,SignOn bonus,1091723
+2025-06,Fixed,Loyalty bonus Costs,819030
+2025-06,Variable,Performance Bonuses,1477523
+2025-06,Variable,Retention bonus,655839
+2025-06,Fixed, Amortisation (transfer),373538
+2025-06,Fixed, Amortisation (club agent),431236
+2025-07,Fixed,Salaries,1028178
+2025-07,Fixed,Loan fees,1065894
+2025-07,Fixed,SignOn bonus,989492
+2025-07,Fixed,Loyalty bonus Costs,1805416
+2025-07,Variable,Performance Bonuses,573254
+2025-07,Variable,Retention bonus,449457
+2025-07,Fixed, Amortisation (transfer),765987
+2025-07,Fixed, Amortisation (club agent),1419512
+2025-08,Fixed,Salaries,1788507
+2025-08,Fixed,Loan fees,1788205
+2025-08,Fixed,SignOn bonus,1753617
+2025-08,Fixed,Loyalty bonus Costs,1198361
+2025-08,Variable,Performance Bonuses,168148
+2025-08,Variable,Retention bonus,748531
+2025-08,Fixed, Amortisation (transfer),1400571
+2025-08,Fixed, Amortisation (club agent),1006606
+2025-09,Fixed,Salaries,1178843
+2025-09,Fixed,Loan fees,1072843
+2025-09,Fixed,SignOn bonus,756508
+2025-09,Fixed,Loyalty bonus Costs,1303591
+2025-09,Variable,Performance Bonuses,996942
+2025-09,Variable,Retention bonus,206530
+2025-09,Fixed, Amortisation (transfer),704365
+2025-09,Fixed, Amortisation (club agent),560337
+2025-10,Fixed,Salaries,1305889
+2025-10,Fixed,Loan fees,708261
+2025-10,Fixed,SignOn bonus,1889673
+2025-10,Fixed,Loyalty bonus Costs,1863715
+2025-10,Variable,Performance Bonuses,1320405
+2025-10,Variable,Retention bonus,371836
+2025-10,Fixed, Amortisation (transfer),1089913
+2025-10,Fixed, Amortisation (club agent),302283
+2025-11,Fixed,Salaries,696769
+2025-11,Fixed,Loan fees,1061353
+2025-11,Fixed,SignOn bonus,1771741
+2025-11,Fixed,Loyalty bonus Costs,1546797
+2025-11,Variable,Performance Bonuses,1050110
+2025-11,Variable,Retention bonus,587879
+2025-11,Fixed, Amortisation (transfer),664685
+2025-11,Fixed, Amortisation (club agent),882038
+2025-12,Fixed,Salaries,1902107
+2025-12,Fixed,Loan fees,1811736
+2025-12,Fixed,SignOn bonus,1507293
+2025-12,Fixed,Loyalty bonus Costs,1079879
+2025-12,Variable,Performance Bonuses,1369460
+2025-12,Variable,Retention bonus,123247
+2025-12,Fixed, Amortisation (transfer),1172876
+2025-12,Fixed, Amortisation (club agent),707086
+2024-01,Fixed,Salaries,1033556
+2024-01,Fixed,Loan fees,1897527
+2024-01,Fixed,SignOn bonus,1822905
+2024-01,Fixed,Loyalty bonus Costs,1242139
+2024-01,Variable,Performance Bonuses,532315
+2024-01,Variable,Retention bonus,1026075
+2024-01,Fixed, Amortisation (transfer),616588
+2024-01,Fixed, Amortisation (club agent),1385160
+2024-02,Fixed,Salaries,1478732
+2024-02,Fixed,Loan fees,1925472
+2024-02,Fixed,SignOn bonus,548984
+2024-02,Fixed,Loyalty bonus Costs,802918
+2024-02,Variable,Performance Bonuses,364712
+2024-02,Variable,Retention bonus,1268727
+2024-02,Fixed, Amortisation (transfer),233767
+2024-02,Fixed, Amortisation (club agent),748663
+2024-03,Fixed,Salaries,636330
+2024-03,Fixed,Loan fees,980754
+2024-03,Fixed,SignOn bonus,1850224
+2024-03,Fixed,Loyalty bonus Costs,513986
+2024-03,Variable,Performance Bonuses,686146
+2024-03,Variable,Retention bonus,1277888
+2024-03,Fixed, Amortisation (transfer),112666
+2024-03,Fixed, Amortisation (club agent),1449380
+2024-04,Fixed,Salaries,634633
+2024-04,Fixed,Loan fees,788998
+2024-04,Fixed,SignOn bonus,1350937
+2024-04,Fixed,Loyalty bonus Costs,1128776
+2024-04,Variable,Performance Bonuses,1433382
+2024-04,Variable,Retention bonus,1179111
+2024-04,Fixed, Amortisation (transfer),1096107
+2024-04,Fixed, Amortisation (club agent),938688
+2024-05,Fixed,Salaries,851279
+2024-05,Fixed,Loan fees,1413910
+2024-05,Fixed,SignOn bonus,989570
+2024-05,Fixed,Loyalty bonus Costs,1821685
+2024-05,Variable,Performance Bonuses,124538
+2024-05,Variable,Retention bonus,994498
+2024-05,Fixed, Amortisation (transfer),301664
+2024-05,Fixed, Amortisation (club agent),591234
+2024-06,Fixed,Salaries,639182
+2024-06,Fixed,Loan fees,1706914
+2024-06,Fixed,SignOn bonus,684064
+2024-06,Fixed,Loyalty bonus Costs,714020
+2024-06,Variable,Performance Bonuses,1139577
+2024-06,Variable,Retention bonus,723094
+2024-06,Fixed, Amortisation (transfer),997421
+2024-06,Fixed, Amortisation (club agent),715270
+2024-07,Fixed,Salaries,1667752
+2024-07,Fixed,Loan fees,1417710
+2024-07,Fixed,SignOn bonus,1766702
+2024-07,Fixed,Loyalty bonus Costs,718969
+2024-07,Variable,Performance Bonuses,222409
+2024-07,Variable,Retention bonus,353618
+2024-07,Fixed, Amortisation (transfer),869598
+2024-07,Fixed, Amortisation (club agent),1198591
+2024-08,Fixed,Salaries,1272838
+2024-08,Fixed,Loan fees,1670672
+2024-08,Fixed,SignOn bonus,1733916
+2024-08,Fixed,Loyalty bonus Costs,1659263
+2024-08,Variable,Performance Bonuses,974371
+2024-08,Variable,Retention bonus,835716
+2024-08,Fixed, Amortisation (transfer),1254454
+2024-08,Fixed, Amortisation (club agent),1073548
+2024-09,Fixed,Salaries,1746862
+2024-09,Fixed,Loan fees,1273290
+2024-09,Fixed,SignOn bonus,1713475
+2024-09,Fixed,Loyalty bonus Costs,1873343
+2024-09,Variable,Performance Bonuses,1099238
+2024-09,Variable,Retention bonus,961882
+2024-09,Fixed, Amortisation (transfer),479989
+2024-09,Fixed, Amortisation (club agent),515515
+2024-10,Fixed,Salaries,543585
+2024-10,Fixed,Loan fees,1919945
+2024-10,Fixed,SignOn bonus,564044
+2024-10,Fixed,Loyalty bonus Costs,1460061
+2024-10,Variable,Performance Bonuses,542296
+2024-10,Variable,Retention bonus,209556
+2024-10,Fixed, Amortisation (transfer),867595
+2024-10,Fixed, Amortisation (club agent),300235
+2024-11,Fixed,Salaries,525939
+2024-11,Fixed,Loan fees,1701482
+2024-11,Fixed,SignOn bonus,1042335
+2024-11,Fixed,Loyalty bonus Costs,1836825
+2024-11,Variable,Performance Bonuses,175766
+2024-11,Variable,Retention bonus,508923
+2024-11,Fixed, Amortisation (transfer),668550
+2024-11,Fixed, Amortisation (club agent),487261
+2024-12,Fixed,Salaries,1310208
+2024-12,Fixed,Loan fees,1185440
+2024-12,Fixed,SignOn bonus,1484346
+2024-12,Fixed,Loyalty bonus Costs,637848
+2024-12,Variable,Performance Bonuses,717075
+2024-12,Variable,Retention bonus,227948
+2024-12,Fixed, Amortisation (transfer),502690
+2024-12,Fixed, Amortisation (club agent),599046
+2023-01,Fixed,Salaries,951269
+2023-01,Fixed,Loan fees,521959
+2023-01,Fixed,SignOn bonus,728576
+2023-01,Fixed,Loyalty bonus Costs,1515602
+2023-01,Variable,Performance Bonuses,1014091
+2023-01,Variable,Retention bonus,265838
+2023-01,Fixed, Amortisation (transfer),1484250
+2023-01,Fixed, Amortisation (club agent),161087
+2023-02,Fixed,Salaries,1513343
+2023-02,Fixed,Loan fees,618451
+2023-02,Fixed,SignOn bonus,1996176
+2023-02,Fixed,Loyalty bonus Costs,939792
+2023-02,Variable,Performance Bonuses,139353
+2023-02,Variable,Retention bonus,293075
+2023-02,Fixed, Amortisation (transfer),1362859
+2023-02,Fixed, Amortisation (club agent),1463453
+2023-03,Fixed,Salaries,565318
+2023-03,Fixed,Loan fees,1265313
+2023-03,Fixed,SignOn bonus,916880
+2023-03,Fixed,Loyalty bonus Costs,1091460
+2023-03,Variable,Performance Bonuses,840976
+2023-03,Variable,Retention bonus,881239
+2023-03,Fixed, Amortisation (transfer),1241840
+2023-03,Fixed, Amortisation (club agent),870746
+2023-04,Fixed,Salaries,1313168
+2023-04,Fixed,Loan fees,725281
+2023-04,Fixed,SignOn bonus,1520545
+2023-04,Fixed,Loyalty bonus Costs,1398613
+2023-04,Variable,Performance Bonuses,369536
+2023-04,Variable,Retention bonus,417824
+2023-04,Fixed, Amortisation (transfer),1406002
+2023-04,Fixed, Amortisation (club agent),277789
+2023-05,Fixed,Salaries,1242452
+2023-05,Fixed,Loan fees,1337291
+2023-05,Fixed,SignOn bonus,625657
+2023-05,Fixed,Loyalty bonus Costs,1783743
+2023-05,Variable,Performance Bonuses,781669
+2023-05,Variable,Retention bonus,1219043
+2023-05,Fixed, Amortisation (transfer),1332310
+2023-05,Fixed, Amortisation (club agent),209751
+2023-06,Fixed,Salaries,1929626
+2023-06,Fixed,Loan fees,1311774
+2023-06,Fixed,SignOn bonus,961079
+2023-06,Fixed,Loyalty bonus Costs,868452
+2023-06,Variable,Performance Bonuses,206081
+2023-06,Variable,Retention bonus,1083237
+2023-06,Fixed, Amortisation (transfer),658986
+2023-06,Fixed, Amortisation (club agent),210078
+2023-07,Fixed,Salaries,522671
+2023-07,Fixed,Loan fees,1966976
+2023-07,Fixed,SignOn bonus,1904104
+2023-07,Fixed,Loyalty bonus Costs,551663
+2023-07,Variable,Performance Bonuses,1164284
+2023-07,Variable,Retention bonus,411955
+2023-07,Fixed, Amortisation (transfer),1282459
+2023-07,Fixed, Amortisation (club agent),1466970
+2023-08,Fixed,Salaries,612547
+2023-08,Fixed,Loan fees,1410681
+2023-08,Fixed,SignOn bonus,642483
+2023-08,Fixed,Loyalty bonus Costs,1158271
+2023-08,Variable,Performance Bonuses,314835
+2023-08,Variable,Retention bonus,501896
+2023-08,Fixed, Amortisation (transfer),184896
+2023-08,Fixed, Amortisation (club agent),577095
+2023-09,Fixed,Salaries,571295
+2023-09,Fixed,Loan fees,1243974
+2023-09,Fixed,SignOn bonus,1387121
+2023-09,Fixed,Loyalty bonus Costs,1821831
+2023-09,Variable,Performance Bonuses,1448224
+2023-09,Variable,Retention bonus,1156731
+2023-09,Fixed, Amortisation (transfer),925816
+2023-09,Fixed, Amortisation (club agent),474705
+2023-10,Fixed,Salaries,1054594
+2023-10,Fixed,Loan fees,647718
+2023-10,Fixed,SignOn bonus,1857563
+2023-10,Fixed,Loyalty bonus Costs,1145263
+2023-10,Variable,Performance Bonuses,1108239
+2023-10,Variable,Retention bonus,207512
+2023-10,Fixed, Amortisation (transfer),247443
+2023-10,Fixed, Amortisation (club agent),473616
+2023-11,Fixed,Salaries,1157409
+2023-11,Fixed,Loan fees,1186976
+2023-11,Fixed,SignOn bonus,1914447
+2023-11,Fixed,Loyalty bonus Costs,875037
+2023-11,Variable,Performance Bonuses,1144107
+2023-11,Variable,Retention bonus,907364
+2023-11,Fixed, Amortisation (transfer),217796
+2023-11,Fixed, Amortisation (club agent),1440575
+2023-12,Fixed,Salaries,1741082
+2023-12,Fixed,Loan fees,1490198
+2023-12,Fixed,SignOn bonus,1198376
+2023-12,Fixed,Loyalty bonus Costs,769544
+2023-12,Variable,Performance Bonuses,480002
+2023-12,Variable,Retention bonus,798002
+2023-12,Fixed, Amortisation (transfer),690978
+2023-12,Fixed, Amortisation (club agent),1007317
+2022-01,Fixed,Salaries,888215
+2022-01,Fixed,Loan fees,821184
+2022-01,Fixed,SignOn bonus,1971091
+2022-01,Fixed,Loyalty bonus Costs,1168234
+2022-01,Variable,Performance Bonuses,478480
+2022-01,Variable,Retention bonus,132711
+2022-01,Fixed, Amortisation (transfer),891971
+2022-01,Fixed, Amortisation (club agent),601157
+2022-02,Fixed,Salaries,684423
+2022-02,Fixed,Loan fees,1016349
+2022-02,Fixed,SignOn bonus,1412495
+2022-02,Fixed,Loyalty bonus Costs,1324792
+2022-02,Variable,Performance Bonuses,233272
+2022-02,Variable,Retention bonus,867836
+2022-02,Fixed, Amortisation (transfer),1086001
+2022-02,Fixed, Amortisation (club agent),802335
+2022-03,Fixed,Salaries,1307789
+2022-03,Fixed,Loan fees,1626081
+2022-03,Fixed,SignOn bonus,502869
+2022-03,Fixed,Loyalty bonus Costs,1281474
+2022-03,Variable,Performance Bonuses,554351
+2022-03,Variable,Retention bonus,1460828
+2022-03,Fixed, Amortisation (transfer),736584
+2022-03,Fixed, Amortisation (club agent),718467
+2022-04,Fixed,Salaries,1638848
+2022-04,Fixed,Loan fees,538467
+2022-04,Fixed,SignOn bonus,1536685
+2022-04,Fixed,Loyalty bonus Costs,1377844
+2022-04,Variable,Performance Bonuses,580047
+2022-04,Variable,Retention bonus,1207447
+2022-04,Fixed, Amortisation (transfer),1039903
+2022-04,Fixed, Amortisation (club agent),228391
+2022-05,Fixed,Salaries,939430
+2022-05,Fixed,Loan fees,1517026
+2022-05,Fixed,SignOn bonus,756687
+2022-05,Fixed,Loyalty bonus Costs,607450
+2022-05,Variable,Performance Bonuses,271890
+2022-05,Variable,Retention bonus,538741
+2022-05,Fixed, Amortisation (transfer),381974
+2022-05,Fixed, Amortisation (club agent),216381
+2022-06,Fixed,Salaries,634508
+2022-06,Fixed,Loan fees,1947687
+2022-06,Fixed,SignOn bonus,1699386
+2022-06,Fixed,Loyalty bonus Costs,1841466
+2022-06,Variable,Performance Bonuses,940477
+2022-06,Variable,Retention bonus,460032
+2022-06,Fixed, Amortisation (transfer),1146811
+2022-06,Fixed, Amortisation (club agent),979611
+2022-07,Fixed,Salaries,1720412
+2022-07,Fixed,Loan fees,1229903
+2022-07,Fixed,SignOn bonus,545714
+2022-07,Fixed,Loyalty bonus Costs,1474339
+2022-07,Variable,Performance Bonuses,730271
+2022-07,Variable,Retention bonus,224123
+2022-07,Fixed, Amortisation (transfer),1036093
+2022-07,Fixed, Amortisation (club agent),1454204
+2022-08,Fixed,Salaries,1631565
+2022-08,Fixed,Loan fees,1846932
+2022-08,Fixed,SignOn bonus,1329957
+2022-08,Fixed,Loyalty bonus Costs,678274
+2022-08,Variable,Performance Bonuses,787995
+2022-08,Variable,Retention bonus,1473928
+2022-08,Fixed, Amortisation (transfer),511927
+2022-08,Fixed, Amortisation (club agent),889852
+2022-09,Fixed,Salaries,631373
+2022-09,Fixed,Loan fees,1987028
+2022-09,Fixed,SignOn bonus,615294
+2022-09,Fixed,Loyalty bonus Costs,1535362
+2022-09,Variable,Performance Bonuses,748307
+2022-09,Variable,Retention bonus,165726
+2022-09,Fixed, Amortisation (transfer),241564
+2022-09,Fixed, Amortisation (club agent),368246
+2022-10,Fixed,Salaries,618015
+2022-10,Fixed,Loan fees,754079
+2022-10,Fixed,SignOn bonus,1050929
+2022-10,Fixed,Loyalty bonus Costs,1189944
+2022-10,Variable,Performance Bonuses,788105
+2022-10,Variable,Retention bonus,613758
+2022-10,Fixed, Amortisation (transfer),1083609
+2022-10,Fixed, Amortisation (club agent),1117703
+2022-11,Fixed,Salaries,945101
+2022-11,Fixed,Loan fees,536631
+2022-11,Fixed,SignOn bonus,1621567
+2022-11,Fixed,Loyalty bonus Costs,1552590
+2022-11,Variable,Performance Bonuses,1421813
+2022-11,Variable,Retention bonus,1166646
+2022-11,Fixed, Amortisation (transfer),1205534
+2022-11,Fixed, Amortisation (club agent),1230650
+2022-12,Fixed,Salaries,1724665
+2022-12,Fixed,Loan fees,697392
+2022-12,Fixed,SignOn bonus,658823
+2022-12,Fixed,Loyalty bonus Costs,1523904
+2022-12,Variable,Performance Bonuses,598863
+2022-12,Variable,Retention bonus,467654
+2022-12,Fixed, Amortisation (transfer),679036
+2022-12,Fixed, Amortisation (club agent),630089
+2021-01,Fixed,Salaries,1698838
+2021-01,Fixed,Loan fees,1991481
+2021-01,Fixed,SignOn bonus,735362
+2021-01,Fixed,Loyalty bonus Costs,1992785
+2021-01,Variable,Performance Bonuses,897079
+2021-01,Variable,Retention bonus,764076
+2021-01,Fixed, Amortisation (transfer),319963
+2021-01,Fixed, Amortisation (club agent),580761
+2021-02,Fixed,Salaries,1797286
+2021-02,Fixed,Loan fees,720984
+2021-02,Fixed,SignOn bonus,764512
+2021-02,Fixed,Loyalty bonus Costs,1101863
+2021-02,Variable,Performance Bonuses,1417375
+2021-02,Variable,Retention bonus,1386125
+2021-02,Fixed, Amortisation (transfer),548982
+2021-02,Fixed, Amortisation (club agent),1272622
+2021-03,Fixed,Salaries,906619
+2021-03,Fixed,Loan fees,1580673
+2021-03,Fixed,SignOn bonus,1496161
+2021-03,Fixed,Loyalty bonus Costs,1166326
+2021-03,Variable,Performance Bonuses,749150
+2021-03,Variable,Retention bonus,1378805
+2021-03,Fixed, Amortisation (transfer),218834
+2021-03,Fixed, Amortisation (club agent),1242424
+2021-04,Fixed,Salaries,1601497
+2021-04,Fixed,Loan fees,1205086
+2021-04,Fixed,SignOn bonus,784821
+2021-04,Fixed,Loyalty bonus Costs,555609
+2021-04,Variable,Performance Bonuses,327897
+2021-04,Variable,Retention bonus,1074165
+2021-04,Fixed, Amortisation (transfer),1179600
+2021-04,Fixed, Amortisation (club agent),1125715
+2021-05,Fixed,Salaries,1618889
+2021-05,Fixed,Loan fees,1938533
+2021-05,Fixed,SignOn bonus,684078
+2021-05,Fixed,Loyalty bonus Costs,1906005
+2021-05,Variable,Performance Bonuses,561243
+2021-05,Variable,Retention bonus,1262208
+2021-05,Fixed, Amortisation (transfer),1097639
+2021-05,Fixed, Amortisation (club agent),351451
+2021-06,Fixed,Salaries,503051
+2021-06,Fixed,Loan fees,1925412
+2021-06,Fixed,SignOn bonus,1504646
+2021-06,Fixed,Loyalty bonus Costs,1471525
+2021-06,Variable,Performance Bonuses,289407
+2021-06,Variable,Retention bonus,549395
+2021-06,Fixed, Amortisation (transfer),1049597
+2021-06,Fixed, Amortisation (club agent),562894
+2021-07,Fixed,Salaries,1760386
+2021-07,Fixed,Loan fees,1457238
+2021-07,Fixed,SignOn bonus,1227975
+2021-07,Fixed,Loyalty bonus Costs,573523
+2021-07,Variable,Performance Bonuses,1243052
+2021-07,Variable,Retention bonus,1382417
+2021-07,Fixed, Amortisation (transfer),903451
+2021-07,Fixed, Amortisation (club agent),1129225
+2021-08,Fixed,Salaries,1370045
+2021-08,Fixed,Loan fees,722866
+2021-08,Fixed,SignOn bonus,1635248
+2021-08,Fixed,Loyalty bonus Costs,1893470
+2021-08,Variable,Performance Bonuses,128251
+2021-08,Variable,Retention bonus,1180793
+2021-08,Fixed, Amortisation (transfer),1156884
+2021-08,Fixed, Amortisation (club agent),1416669
+2021-09,Fixed,Salaries,683062
+2021-09,Fixed,Loan fees,894366
+2021-09,Fixed,SignOn bonus,1244840
+2021-09,Fixed,Loyalty bonus Costs,600235
+2021-09,Variable,Performance Bonuses,1223316
+2021-09,Variable,Retention bonus,478496
+2021-09,Fixed, Amortisation (transfer),850201
+2021-09,Fixed, Amortisation (club agent),903328
+2021-10,Fixed,Salaries,1543233
+2021-10,Fixed,Loan fees,677247
+2021-10,Fixed,SignOn bonus,1029525
+2021-10,Fixed,Loyalty bonus Costs,1532751
+2021-10,Variable,Performance Bonuses,1168632
+2021-10,Variable,Retention bonus,276615
+2021-10,Fixed, Amortisation (transfer),287628
+2021-10,Fixed, Amortisation (club agent),738836
+2021-11,Fixed,Salaries,873632
+2021-11,Fixed,Loan fees,1682991
+2021-11,Fixed,SignOn bonus,906716
+2021-11,Fixed,Loyalty bonus Costs,946438
+2021-11,Variable,Performance Bonuses,765022
+2021-11,Variable,Retention bonus,641252
+2021-11,Fixed, Amortisation (transfer),352764
+2021-11,Fixed, Amortisation (club agent),814998
+2021-12,Fixed,Salaries,1240427
+2021-12,Fixed,Loan fees,1012153
+2021-12,Fixed,SignOn bonus,567215
+2021-12,Fixed,Loyalty bonus Costs,644356
+2021-12,Variable,Performance Bonuses,303861
+2021-12,Variable,Retention bonus,1102168
+2021-12,Fixed, Amortisation (transfer),455612
+2021-12,Fixed, Amortisation (club agent),109435
