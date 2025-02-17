@@ -5,7 +5,7 @@ const cors = require('cors');
 const moment = require('moment');
 
 const app = express();
-const port = 10000;
+const port = process.env.PORT || 10000;
 app.use(cors());
 
 let monthlyExpenses = [];
