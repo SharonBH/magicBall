@@ -96,7 +96,7 @@ export default function FinancialDashboard() {
           onChange={(e) => setPosition(Number(e.target.value))}
           className="border p-2 rounded mb-4 text-black"
         />
-        <Link href="/prediction">Predictions Comparison</Link> 
+        <Link href="/prediction" prefetch={false}>Predictions Comparison</Link> 
       </div>
       <div className="bg-blue-500 p-4 rounded-lg shadow text-center">
         <h2 className="text-xl font-bold">Predicted end season:</h2>
