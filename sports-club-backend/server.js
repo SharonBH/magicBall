@@ -149,6 +149,6 @@ app.get('/api/predicted-variable-financials', (req, res) => {
   });
 });
 
-app.listen(PORT, () => {
+app.listen(port, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
