@@ -5,7 +5,7 @@ const cors = require('cors');
 const moment = require('moment');
 
 const app = express();
-const PORT = 5000;
+const port = process.env.PORT || 10000;
 app.use(cors());
 
 let monthlyExpenses = [];
@@ -157,6 +157,6 @@ app.get('/api/predicted-variable-financials', (req, res) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+app.listen(port, () => {
+  console.log(`Server is running on port: ${port}`);
 });
