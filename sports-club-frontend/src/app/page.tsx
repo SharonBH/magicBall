@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Pie, Bar } from "react-chartjs-2";
+import { Bar } from "react-chartjs-2";
 import {
   Chart as ChartJS,
   ArcElement,
@@ -12,9 +12,10 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
+import Link from 'next/link';
 import axios from "axios";
-import { motion } from "framer-motion";
-import { pre } from "framer-motion/client";
+// import { motion } from "framer-motion";
+// import { pre } from "framer-motion/client";
 
 ChartJS.register(
   ArcElement,
@@ -27,19 +28,25 @@ ChartJS.register(
 );
 
 export default function FinancialDashboard() {
-  const [monthlyExpenses, setMonthlyExpenses] = useState([]);
-  const [monthlyRevenues, setMonthlyRevenues] = useState([]);
+  interface FinancialData {
+    Category: string;
+    Type: string;
+    Amount: string;
+  }
+
+  const [monthlyExpenses, setMonthlyExpenses] = useState<FinancialData[]>([]);
+  const [monthlyRevenues, setMonthlyRevenues] = useState<FinancialData[]>([]);
   const [position, setPosition] = useState(8);
   const [predictedFinancials, setPredictedFinancials] = useState({
-    variableExpenses: {},
-    variableRevenues: {},
-    fixedExpenses: {},
-    fixedRevenues: {},
+    variableExpenses: {} as Record<string, number>,
+    variableRevenues: {} as Record<string, number>,
+    fixedExpenses: {} as Record<string, number>,
+    fixedRevenues: {} as Record<string, number>,
     totalVariableExpenses: 0,
     totalVariableRevenues: 0,
     totalIncome: 0,
   });
-  const apibase = "http://localhost:5000";
+  const apibase = "https://magicball-bhwh.onrender.com";
 
   const variableExpenseTypes = [...new Set(monthlyExpenses.filter(e => e.Category === "Variable").map(e => e.Type))];
   const currentVariableExpenses = variableExpenseTypes.map(type => 
@@ -78,7 +85,7 @@ export default function FinancialDashboard() {
     console.log(predictedFinancials),
     <div>
     <div className="grid grid-cols-3 gap-4 p-4">
-       <div className="col-span-3 bg-slate-700 p-6 rounded-lg shadow flex justify-around text-align-center">
+      <div className="col-span-3 bg-slate-700 p-6 rounded-lg shadow flex justify-around text-align-center">
         <h2 className="text-2xl w-full p-2">Sport Club Season overview</h2>
         <h2 className="text-sm font-bold w-60 p-3">Finishing Position</h2>
         <input
@@ -86,9 +93,10 @@ export default function FinancialDashboard() {
           value={position}
           min="1"
           max="20"
-          onChange={(e) => setPosition(e.target.value)}
+          onChange={(e) => setPosition(Number(e.target.value))}
           className="border p-2 rounded mb-4 text-black"
         />
+        <Link href="/prediction">Predictions Comparison</Link> 
       </div>
       <div className="bg-blue-500 p-4 rounded-lg shadow text-center">
         <h2 className="text-xl font-bold">Predicted end season:</h2>
