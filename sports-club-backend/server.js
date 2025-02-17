@@ -38,6 +38,14 @@ function getRemainingMonths() {
   return monthlyExpenses.filter(entry => moment(entry.Month, 'YYYY-MM').isSameOrAfter(today) && moment(entry.Month, 'YYYY-MM').isSameOrBefore(seasonEnd));
 }
 
+// API Endpoint for healthcheck
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: 'healthy',
+    timestamp: new Date().toISOString()
+  });
+});
+
 // API Endpoint to fetch Monthly Expenses for current season
 app.get('/api/monthly-expenses', (req, res) => {
   const seasonStart = getCurrentSeasonStart();
