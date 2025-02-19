@@ -5,33 +5,33 @@ Month,Category,Type,Amount
 2025-01,Variable,Matchday Ticket Sales,578781
 2025-01,Variable,Merchandise Sales,2788627
 2025-02,Fixed,Sponsorship Deals,3403215
-2025-02,Fixed,Broadcasting Rights,1764121
+2025-02,Fixed,Broadcasting Rights,2764121
 2025-02,Fixed,Season Ticket Sales,3873817
 2025-02,Variable,Matchday Ticket Sales,2239183
 2025-02,Variable,Merchandise Sales,1669748
 2025-03,Fixed,Sponsorship Deals,2107677
-2025-03,Fixed,Broadcasting Rights,2544548
+2025-03,Fixed,Broadcasting Rights,5544548
 2025-03,Fixed,Season Ticket Sales,1288790
 2025-03,Variable,Matchday Ticket Sales,1390617
 2025-03,Variable,Merchandise Sales,3144489
 2025-04,Fixed,Sponsorship Deals,1650419
-2025-04,Fixed,Broadcasting Rights,3530526
-2025-04,Fixed,Season Ticket Sales,3817929
+2025-04,Fixed,Broadcasting Rights,6530526
+2025-04,Fixed,Season Ticket Sales,5817929
 2025-04,Variable,Matchday Ticket Sales,1387225
 2025-04,Variable,Merchandise Sales,771967
 2025-05,Fixed,Sponsorship Deals,3106692
-2025-05,Fixed,Broadcasting Rights,2589228
+2025-05,Fixed,Broadcasting Rights,6589228
 2025-05,Fixed,Season Ticket Sales,3649103
 2025-05,Variable,Matchday Ticket Sales,1600567
-2025-05,Variable,Merchandise Sales,2785903
-2025-06,Fixed,Sponsorship Deals,3840735
-2025-06,Fixed,Broadcasting Rights,1721747
+2025-05,Variable,Merchandise Sales,4785903
+2025-06,Fixed,Sponsorship Deals,6840735
+2025-06,Fixed,Broadcasting Rights,6721747
 2025-06,Fixed,Season Ticket Sales,2197719
 2025-06,Variable,Matchday Ticket Sales,2263211
 2025-06,Variable,Merchandise Sales,2538449
 2025-07,Fixed,Sponsorship Deals,2052576
-2025-07,Fixed,Broadcasting Rights,3823100
-2025-07,Fixed,Season Ticket Sales,3984626
+2025-07,Fixed,Broadcasting Rights,6823100
+2025-07,Fixed,Season Ticket Sales,7984626
 2025-07,Variable,Matchday Ticket Sales,1904330
 2025-07,Variable,Merchandise Sales,751492
 2025-08,Fixed,Sponsorship Deals,2086880
@@ -95,27 +95,27 @@ Month,Category,Type,Amount
 2024-07,Variable,Matchday Ticket Sales,1638356
 2024-07,Variable,Merchandise Sales,1701193
 2024-08,Fixed,Sponsorship Deals,1533636
-2024-08,Fixed,Broadcasting Rights,1038102
-2024-08,Fixed,Season Ticket Sales,1074460
+2024-08,Fixed,Broadcasting Rights,5038102
+2024-08,Fixed,Season Ticket Sales,4074460
 2024-08,Variable,Matchday Ticket Sales,1913354
 2024-08,Variable,Merchandise Sales,2276203
 2024-09,Fixed,Sponsorship Deals,1231915
-2024-09,Fixed,Broadcasting Rights,3825104
+2024-09,Fixed,Broadcasting Rights,6825104
 2024-09,Fixed,Season Ticket Sales,3305276
 2024-09,Variable,Matchday Ticket Sales,3034629
 2024-09,Variable,Merchandise Sales,1025830
 2024-10,Fixed,Sponsorship Deals,1718216
-2024-10,Fixed,Broadcasting Rights,3452401
+2024-10,Fixed,Broadcasting Rights,7452401
 2024-10,Fixed,Season Ticket Sales,2268506
 2024-10,Variable,Matchday Ticket Sales,1305497
 2024-10,Variable,Merchandise Sales,1017313
 2024-11,Fixed,Sponsorship Deals,2337682
-2024-11,Fixed,Broadcasting Rights,2076871
+2024-11,Fixed,Broadcasting Rights,4076871
 2024-11,Fixed,Season Ticket Sales,2062383
 2024-11,Variable,Matchday Ticket Sales,2754656
 2024-11,Variable,Merchandise Sales,2549365
 2024-12,Fixed,Sponsorship Deals,3006342
-2024-12,Fixed,Broadcasting Rights,3789592
+2024-12,Fixed,Broadcasting Rights,6789592
 2024-12,Fixed,Season Ticket Sales,1394540
 2024-12,Variable,Matchday Ticket Sales,2426275
 2024-12,Variable,Merchandise Sales,3115075
